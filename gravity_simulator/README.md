@@ -69,8 +69,3 @@ gcc -Wall -Weffc++ -o glut_main ball.c -lglut -lGLU -lGL -lm;./glut_main
 # ライセンス
 
 MIT License
-
-
-
-アピールポイント
-座標をマクロで作成しているため，箱の広さを変えるときにミスをしにくくしています
