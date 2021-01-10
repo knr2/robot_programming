@@ -33,6 +33,7 @@
 # インストール方法
 
 - Open GLとGLFW
+
 ターミナル
 ```sh
 sudo apt-get install -y libx11-dev xorg-dev
@@ -43,6 +44,7 @@ sudo apt install -y libglew-dev
 ```
 
 - プログラム
+
 ターミナル
 ```sh
 git clone https://github.com/knr2/robot_programming.git
