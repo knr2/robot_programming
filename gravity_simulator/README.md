@@ -34,7 +34,7 @@ Open GLを使ってバウンドするボールを作成しました。
 
 # デモ動画
 
-[![数当てゲーム](http://img.youtube.com/vi/3zt6zq_mfJk/hqdefault.jpg)](https://youtu.be/3zt6zq_mfJk)
+[![バウンドするボール](http://img.youtube.com/vi/3zt6zq_mfJk/hqdefault.jpg)](https://youtu.be/3zt6zq_mfJk)
 
 
 # インストール方法
