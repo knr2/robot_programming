@@ -57,8 +57,8 @@ int nochange()
 \n\
 --------------------------------------------------------------------\n\n");
 
-    //suusiki.txtに書き込み開始
-    fp = fopen("suusiki.txt", "a");
+    //math.txtに書き込み開始
+    fp = fopen("math.txt", "a");
 
     if (fp == NULL)
     {
