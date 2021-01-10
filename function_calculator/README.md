@@ -45,7 +45,7 @@ git clone https://github.com/knr2/robot_programming.git
 
 ターミナル
 ```sh
-cd robot_progrmming
+cd robot_programming/function_calculator/
 gcc function_calculator.c -o test -lm; ./test
 ```
 
