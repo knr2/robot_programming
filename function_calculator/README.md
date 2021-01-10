@@ -49,6 +49,12 @@ cd robot_programming/function_calculator/
 gcc function_calculator.c -o test -lm; ./test
 ```
 
+履歴を見る場合
+ターミナル
+```sh
+cd robot_programming/function_calculator/
+gcc function_calculator.c -o test -lm; ./test
+```
 
 # ライセンス
 
