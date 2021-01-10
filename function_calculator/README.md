@@ -33,18 +33,6 @@
 
 # インストール方法
 
-- Open GLとGLFW
-ターミナル
-```sh
-sudo apt-get install -y libx11-dev xorg-dev
-sudo apt-get install -y libglu1-mesa libglu1-mesa-dev
-sudo apt-get install -y libgl1-mesa-glx libgl1-mesa-dev
-sudo apt install -y libglfw3 libglfw3-dev
-sudo apt install -y libglew-dev
-```
-
-
-- プログラム
 ターミナル
 ```sh
 git clone https://github.com/knr2/robot_programming.git
@@ -53,7 +41,7 @@ git clone https://github.com/knr2/robot_programming.git
 
 # 使用方法
 
-以下のコマンドで使用できます。
+以下のコマンドを実行してください。
 
 ターミナル
 ```sh
@@ -61,7 +49,8 @@ cd robot_programming/function_calculator/
 gcc function_calculator.c -o test -lm; ./test
 ```
 
-履歴を見る場合
+履歴を見る場合は以下のコマンドを実行してください。
+
 ターミナル
 ```sh
 cd robot_programming/function_calculator/
